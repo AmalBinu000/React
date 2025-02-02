@@ -1,0 +1,19 @@
+.card-img{
+  padding-left: 22px;
+  width: 200px;
+  height: 250px;
+}
+
+.card{
+  width: 17%;
+  border: 1px solid rgb(226, 226, 226);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px  hsla(0, 0%, 0%, 0.1);
+  margin: 10px;
+  padding: 10px;
+
+}
+.card.title{
+  font-family: sans-serif;
+  font-size: x-large;
+}
